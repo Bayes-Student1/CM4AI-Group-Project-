@@ -41,6 +41,12 @@ Rebecca Bernal on August 15th, 2025
 
 Day 1 - August 10th, 2025
 -----------------------------------------------------------------------------------------------
+Installed 'Visual Studios Code', Anaconda,
+
+Note that due to storage issues a subset of the raw IF data was used N=536. 134 in each untreated and treated (Vorinostat, Paclitaxed). 33 in each 'blue', 'red', 'green', and 'yellow' folder.
+
+
+
 
 
 
