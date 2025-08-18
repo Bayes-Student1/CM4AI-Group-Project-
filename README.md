@@ -24,17 +24,15 @@ Our objective is to evaluate alternate 'SubCell' image embedding methods for imm
 Rebecca Bernal on August 15th, 2025
 
 
-Data
+### This Repo includes: 
+1. Data
   - Raw Immunofluorescence Data used for analysis (HPA Cell Segmentation)
-
-Full CM4AI Script_RBernal.ipynb
+2. Full CM4AI Script_RBernal.ipynb
   - consists of the full python code that was written during day 1 and day 2 of the Code Fest.
-
-HPA Cell Segmentation Script.ipynb
+3. HPA Cell Segmentation Script.ipynb
    - subset of the 'Full CM4AI Script_RBernal.ipynb' script.
    - prints only the HPA Cell Segmentaion with Multiple Channels section
-
-Segmentation_results2
+4. Segmentation_results2
   - results for the HPA Cell Segmentation with Multiple Channels
 
 
