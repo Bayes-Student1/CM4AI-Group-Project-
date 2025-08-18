@@ -6,11 +6,12 @@
 This repo is related to the participation in the [2025 CM4AI at UAB ](https://www.uab.edu/medicine/informatics/news-events/events/cm4ai-codefest-at-uab)
 
 ### Our Team
-- Rebecca Bernal
-- Morgan Smith
-- Arash Abadi
-- Jedediah Smith
-- Mona Shabana
+- Rebecca Bernal, UT San Antonio
+- Morgan Smith, UT San Antonio
+      https://github.com/morgansmith27
+- Arash Abadi, UAB
+- Jedediah Smith, UAB
+- Mona Shabana, UAB
 
 ### Project
 AI-Based Multi-Channel Deep Learning Pipeline for HPA Cell Segmentation
