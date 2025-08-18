@@ -56,12 +56,11 @@ The official CM4AI Cell Map Pipeline Code was used to perform the direct embeddi
         - [notebooks](https://github.com/idekerlab/cellmaps_pipeline/blob/main/notebooks/step-by-step-guide-run-cellmaps-pipeline.ipynb)
 - [Documentation](https://cellmaps-pipeline.readthedocs.io/en/latest/)
 
-Explored the data using [CM4AI Tutorial Immunofluorescense](https://github.com/CM4AI/cm4ai-tutorial-immunofluorescence/tree/main)
-- src
-- 
-        - explore the data: [eda.ipynb](https://github.com/CM4AI/cm4ai-tutorial-immunofluorescence/blob/main/src/eda.ipynb)
-        - generate embedding with cellmaps image embedder: [generate_embeddings.py](https://github.com/CM4AI/cm4ai-tutorial-immunofluorescence/blob/main/src/generate_embeddings.py)
-        - GENERATE A PROTEIN SIMILARITY GRAPH BASED ON THE EMBEDDING AND VISUALIZE RESULTS: [generate_graph.ipynb](https://github.com/CM4AI/cm4ai-tutorial-immunofluorescence/blob/main/src/generate_graph.ipynb)
+Explored the data using [CM4AI Tutorial Immunofluorescense](https://github.com/CM4AI/cm4ai-tutorial-immunofluorescence/tree/main). Click on src:
+
+- explore the data: [eda.ipynb](https://github.com/CM4AI/cm4ai-tutorial-immunofluorescence/blob/main/src/eda.ipynb)
+- generate embedding with cellmaps image embedder: [generate_embeddings.py](https://github.com/CM4AI/cm4ai-tutorial-immunofluorescence/blob/main/src/generate_embeddings.py)
+- GENERATE A PROTEIN SIMILARITY GRAPH BASED ON THE EMBEDDING AND VISUALIZE RESULTS: [generate_graph.ipynb](https://github.com/CM4AI/cm4ai-tutorial-immunofluorescence/blob/main/src/generate_graph.ipynb)
   
 
 -----------------------------------------------------------------------------------------------
