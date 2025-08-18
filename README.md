@@ -101,6 +101,9 @@ Mona: Background/Significance for powerpoint
 Editing google slides/powerpoint for everyone
 
 
+PowerPoint Presentation:
+https://docs.google.com/presentation/d/190pZ3yB4t-PpOOlBwdOuzx1AJcnQugEER8N1m3eJME8/edit?usp=sharing 
+
 
 
 
