@@ -68,6 +68,19 @@ Explored the data using [CM4AI Tutorial Immunofluorescense](https://github.com/C
 
 Day 2 - August 11th, 2025
 -----------------------------------------------------------------------------------------------
+Now that the direct embedding has been performed. The goal is to perform cell/nuclei segmentation prior to embedding.
+
+First, to test my segmentaion script, I ran HPA Cell Segmentaion using only the first 10 images form 'Paclitaxel' medication and 'Blue' folder. If the HPA Cell Segmentation runs with the subset dataset (n=10) then run with the full set of images. 
+
+Agenda: 
+
+clone [HPA Cell Segmentation](https://github.com/CellProfiling/HPA-Cell-Segmentation.git) GitHub
+
+Using ChatGPT the following script was derived to perform HPA Cell Segmentation. Which runs nuclei segmentation on images in DATA_DIR using HPA-Cell-Segmentation and saves results to ANALYSIS_DIR/segmentation_results.
+
+Now that the above script was successful, the objective is to perform HPA Cell Segmentation on multiple channels (red, yellow, blue, green). View ['HPA Cell Segmentation Script.ipynb'] for detailed notes.
+
+
 
 
 
