@@ -78,7 +78,7 @@ clone [HPA Cell Segmentation](https://github.com/CellProfiling/HPA-Cell-Segmenta
 
 Using ChatGPT the following script was derived to perform HPA Cell Segmentation. Which runs nuclei segmentation on images in DATA_DIR using HPA-Cell-Segmentation and saves results to ANALYSIS_DIR/segmentation_results.
 
-Now that the above script was successful, the objective is to perform HPA Cell Segmentation on multiple channels (red, yellow, blue, green). View ['HPA Cell Segmentation Script.ipynb'] for detailed notes.
+Now that the above script was successful, the objective is to perform HPA Cell Segmentation on multiple channels (red, yellow, blue, green). View 'HPA Cell Segmentation Script.ipynb' for detailed notes.
 
 
 -----------------------------------------------------------------------------------------------
