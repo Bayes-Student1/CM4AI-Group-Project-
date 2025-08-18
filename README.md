@@ -1,5 +1,4 @@
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0f648033-7bb3-4f70-9d8f-9084a690e306" />
-![Uploading image.png…]()
 
 -----------------------------------------------------------------------------------------------
 Project: CM4AI TEAM PROJECT
