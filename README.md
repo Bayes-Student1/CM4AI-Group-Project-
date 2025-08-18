@@ -84,7 +84,7 @@ Now that the above script was successful, the objective is to perform HPA Cell S
 -----------------------------------------------------------------------------------------------
 
 
-Futher work - August 12 - 22, 2025
+Futher work - August 12 - 21, 2025
 -----------------------------------------------------------------------------------------------
 Rebecca: Currently rerunning the segmentation and renaming the files VS Code
 
@@ -100,6 +100,12 @@ Arash: Project management and github maintanence
 Mona: Background/Significance for powerpoint
 Editing google slides/powerpoint for everyone
 
+
+-----------------------------------------------------------------------------------------------
+
+
+Virtual Presentation - August 22, 2025
+-----------------------------------------------------------------------------------------------
 
 PowerPoint Presentation:
 https://docs.google.com/presentation/d/190pZ3yB4t-PpOOlBwdOuzx1AJcnQugEER8N1m3eJME8/edit?usp=sharing 
