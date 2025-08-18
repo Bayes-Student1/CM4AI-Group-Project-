@@ -1,11 +1,14 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0f648033-7bb3-4f70-9d8f-9084a690e306" />-----------------------------------------------------------------------------------------------
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/0f648033-7bb3-4f70-9d8f-9084a690e306" />
+![Uploading image.png…]()
+
+-----------------------------------------------------------------------------------------------
 Project: CM4AI TEAM PROJECT
 -----------------------------------------------------------------------------------------------
 Goal: Perform data embedding with and without HPA Cell Segmentation and compare both results.
 Created By: Rebecca Bernal August 15th, 2025
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
-![Uploading image.png…]()
+
 
 Data
   - Raw Immunofluorescence Data used for analysis (HPA Cell Segmentation)
