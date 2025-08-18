@@ -50,6 +50,7 @@ Reading:
 - [Cell Mapping Pipeline](https://academic.oup.com/bioinformatics/article/41/6/btaf205/8159056)
 
 Agenda:
+
 The official CM4AI Cell Map Pipeline Code was used to perform the direct embedding.
 - [GitHub Repository](https://github.com/idekerlab/cellmaps_pipeline)
         - [notebooks](https://github.com/idekerlab/cellmaps_pipeline/blob/main/notebooks/step-by-step-guide-run-cellmaps-pipeline.ipynb)
