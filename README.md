@@ -15,10 +15,13 @@ This repo is related to the participation in the [2025 CM4AI at UAB ](https://ww
 ### Project
 AI-Based Multi-Channel Deep Learning Pipeline for HPA Cell Segmentation
 
-Goal: Perform data embedding with and without HPA Cell Segmentation and compare both results.
-Created By: Rebecca Bernal August 15th, 2025
------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------
+### Goal
+Our objective is to evaluate alternate 'SubCell' image embedding methods for immunofluorescence images by comparing two approaches: 
+1. Segmentation-based embedding – performing cell/nuclei segmentation prior to embedding.
+2. Direct embedding – applying SubCell embeddings without segmentation.
+
+### Created By
+Rebecca Bernal on August 15th, 2025
 
 
 Data
