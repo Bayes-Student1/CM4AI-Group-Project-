@@ -39,7 +39,7 @@ Rebecca Bernal on August 15th, 2025
 -----------------------------------------------------------------------------------------------
 
 
-Day 1 - August 10th, 2025
+Day 1 - August 14th, 2025
 -----------------------------------------------------------------------------------------------
 Installed 'Visual Studios Code', Anaconda,
 
@@ -66,7 +66,7 @@ Explored the data using [CM4AI Tutorial Immunofluorescense](https://github.com/C
 -----------------------------------------------------------------------------------------------
 
 
-Day 2 - August 11th, 2025
+Day 2 - August 15th, 2025
 -----------------------------------------------------------------------------------------------
 Now that the direct embedding has been performed. The goal is to perform cell/nuclei segmentation prior to embedding.
 
@@ -84,7 +84,7 @@ Now that the above script was successful, the objective is to perform HPA Cell S
 -----------------------------------------------------------------------------------------------
 
 
-Futher work - August 12 - 21, 2025
+Futher work - August 16 - 21, 2025
 -----------------------------------------------------------------------------------------------
 Rebecca: Currently rerunning the segmentation and renaming the files VS Code
 
