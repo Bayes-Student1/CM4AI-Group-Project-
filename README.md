@@ -81,6 +81,20 @@ Using ChatGPT the following script was derived to perform HPA Cell Segmentation.
 Now that the above script was successful, the objective is to perform HPA Cell Segmentation on multiple channels (red, yellow, blue, green). View ['HPA Cell Segmentation Script.ipynb'] for detailed notes.
 
 
+-----------------------------------------------------------------------------------------------
+
+
+Futher work - August 12 - 22, 2025
+-----------------------------------------------------------------------------------------------
+Rebecca: Currently rerunning the segmentation and renaming the files VS Code
+Morgan: Cropping and subcellular visualization on the stacked images (all colors on new dataset) via Google Colab (possibly Visual Studio Code)
+Jebediah: Subcell tutorial working to change data
+Arash: Project management and github maintanence
+Mona: Background/Significance for powerpoint
+Editing google slides/powerpoint for everyone
+
+
+
 
 
 
