@@ -45,9 +45,12 @@ Installed 'Visual Studios Code', Anaconda,
 
 Note that due to storage issues a subset of the raw IF data was used N=536. 134 in each untreated and treated (Vorinostat, Paclitaxed). 33 in each 'blue', 'red', 'green', and 'yellow' folder.
 
-Reading:
+Background Materials:
 - [CM4AI Overview Pre-Print](https://www.biorxiv.org/content/10.1101/2024.05.21.589311v1)
 - [Cell Mapping Pipeline](https://academic.oup.com/bioinformatics/article/41/6/btaf205/8159056)
+- [Cell Maps for AI (CM4AI) - Introduction & Overview](https://www.youtube.com/watch?v=wiGgof7gY3w)
+- [The Cell Maps Pipeline](https://www.youtube.com/watch?v=AK2eQbOys2I)
+- [CM4AI Data - Immunofluorescence (IF)](https://www.youtube.com/watch?v=Ys5rFvMMtE4)
 
 Agenda:
 
