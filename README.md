@@ -12,6 +12,8 @@ This repo is related to the participation in the [2025 CM4AI at UAB ](https://ww
 - Jedediah Smith
 - Mona Shabana
 
+Project: 
+AI-Based Multi-Channel Deep Learning Pipeline for HPA Cell Segmentation
 
 Goal: Perform data embedding with and without HPA Cell Segmentation and compare both results.
 Created By: Rebecca Bernal August 15th, 2025
