@@ -8,7 +8,6 @@ This repo is related to the participation in the [2025 CM4AI at UAB ](https://ww
 ### Our Team
 - Rebecca Bernal, UT San Antonio
 - Morgan Smith, UT San Antonio
-      https://github.com/morgansmith27
 - Arash Abadi, UAB
 - Jedediah Smith, UAB
 - Mona Shabana, UAB
@@ -90,11 +89,14 @@ Futher work - August 12 - 22, 2025
 Rebecca: Currently rerunning the segmentation and renaming the files VS Code
 
 Morgan: Cropping and subcellular visualization on the stacked images (all colors on new dataset) via Google Colab (possibly Visual Studio Code)
+- https://github.com/morgansmith27 
 
 Jebediah: Subcell tutorial working to change data
-
+- https://github.com/OriginalBrick/cm4ai-codefest
+  
 Arash: Project management and github maintanence
-
+- https://github.com/arashabadi/cm4ai_codefest2025
+  
 Mona: Background/Significance for powerpoint
 Editing google slides/powerpoint for everyone
 
