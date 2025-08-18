@@ -17,8 +17,8 @@ AI-Based Multi-Channel Deep Learning Pipeline for HPA Cell Segmentation
 
 ### Goal
 Our objective is to evaluate alternate 'SubCell' image embedding methods for immunofluorescence images by comparing two approaches: 
-1. Segmentation-based embedding – performing cell/nuclei segmentation prior to embedding.
-2. Direct embedding – applying SubCell embeddings without segmentation.
+1. Direct embedding – applying SubCell embeddings without segmentation.
+2. Segmentation-based embedding – performing cell/nuclei segmentation prior to embedding.
 
 ### Created By
 Rebecca Bernal on August 15th, 2025
@@ -47,7 +47,13 @@ Note that due to storage issues a subset of the raw IF data was used N=536. 134 
 
 Reading:
 - [CM4AI Overview Pre-Print](https://www.biorxiv.org/content/10.1101/2024.05.21.589311v1)
+- [Cell Mapping Pipeline](https://academic.oup.com/bioinformatics/article/41/6/btaf205/8159056)
 
+Agenda:
+The official CM4AI Cell Map Pipeline Code was used to perform the direct embedding.
+- [GitHub Repository](https://github.com/idekerlab/cellmaps_pipeline)
+        - [notebooks](https://github.com/idekerlab/cellmaps_pipeline/blob/main/notebooks/step-by-step-guide-run-cellmaps-pipeline.ipynb)
+- [Documentation](https://cellmaps-pipeline.readthedocs.io/en/latest/)
 
 
 
