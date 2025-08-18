@@ -26,14 +26,14 @@ Rebecca Bernal on August 15th, 2025
 
 ### This Repo includes: 
 1. Data
-  - Raw Immunofluorescence Data used for analysis (HPA Cell Segmentation)
+    - Raw Immunofluorescence Data used for analysis (HPA Cell Segmentation)
 2. Full CM4AI Script_RBernal.ipynb
-  - consists of the full python code that was written during day 1 and day 2 of the Code Fest.
+    - consists of the full python code that was written during day 1 and day 2 of the Code Fest.
 3. HPA Cell Segmentation Script.ipynb
-   - subset of the 'Full CM4AI Script_RBernal.ipynb' script.
-   - prints only the HPA Cell Segmentaion with Multiple Channels section
+     - subset of the 'Full CM4AI Script_RBernal.ipynb' script.
+     - prints only the HPA Cell Segmentaion with Multiple Channels section
 4. Segmentation_results2
-  - results for the HPA Cell Segmentation with Multiple Channels
+    - results for the HPA Cell Segmentation with Multiple Channels
 
 
 -----------------------------------------------------------------------------------------------
